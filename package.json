@@ -1,0 +1,23 @@
+{
+	"name": "symply",
+	"version": "0.0.1",
+	"description": "Symply is an workspace for writing code, drawing images, and making music.",
+	"author": "Ben Van Aartsen <i.ben.cubing@gmail.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"ts-loader": "^3.2.0",
+		"typescript": "^2.6.2",
+		"webpack": "^3.10.0"
+	},
+	"scripts": {
+		"build": "webpack -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://gitlab.com/IBenCubing/symply.git"
+	},
+	"bugs": {
+		"url": "https://gitlab.com/IBenCubing/symply/issues"
+	},
+	"homepage": "https://gitlab.com/IBenCubing/symply#README"
+}
